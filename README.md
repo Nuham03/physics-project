@@ -29,6 +29,4 @@ It demonstrates key physics concepts such as center of mass.
 Here is a screenshot of our physics project in action! (simulation.jpg)
 ## Slides made for this project
 (https://www.overleaf.com/read/vvythhrskdjn#9eba9b)
-## essay
-There is also an essay specifically made for our project which make everything more brief.
   
