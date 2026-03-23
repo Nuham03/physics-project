@@ -27,4 +27,6 @@ It demonstrates key physics concepts such as center of mass.
 - 
 ## Simulation Example
 Here is a screenshot of our physics project in action! (simulation.jpg)
+## Slides made for this project
+(https://www.overleaf.com/read/vvythhrskdjn#9eba9b)
   
