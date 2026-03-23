@@ -26,5 +26,5 @@ It demonstrates key physics concepts such as center of mass.
 - Screenshots or additional explanations can be added if needed
 - 
 ## Simulation Example
-Here is a screenshot of our physics project in action!(simulation.jpg)
+Here is a screenshot of our physics project in action! (simulation.jpg)
   
